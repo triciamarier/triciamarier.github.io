@@ -44,8 +44,6 @@ function sumWhile(list) {
 }
 ```
 
-My honest opinion on coding standards is that it can be tough and tedious to do at first, but once you get used to it, it will be beneficial in the longrun.
-
 ## Conclusion
 
-I think that following the coding standard is something that I need to become used to and familiar with again. I really think that it would help in the long run and is beneficial especially when you are just learning a new language. 
+I think that following the coding standard is something that I need to become used to doing again. My honest opinion on coding standards is that it can be tough and tedious to do at first, but once you get familiar with the rules and the process, it will be beneficial when you are debugging, reading through code, and even asking someone for help.
