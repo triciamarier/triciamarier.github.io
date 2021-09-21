@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: 
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 labels:
@@ -10,40 +10,17 @@ labels:
   - ESLint
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
-
 ## What are Coding Standards
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Coding standards is a set of rules and practices that aid in writing code that is neat and orderly.
 
-## Rewards of Coding Standards
+## My Opinion on Coding Standards
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+This is not my first experience with coding standards. My first ever class in coding was called EE160 which is where I first learned the C programming language. My professor always stressed that it was important to have your code to be clean with comments, the right amound of indentations, and spaces. There were points taken off if we did not follow the standard. However, as my college career continued to where I am today, it has not been enforced as heavily as it was before so to come in contact with coding standards again felt kind of like a wake up call.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+I would not say that after my EE160 class I just dropped everything I learned about the coding standard and wrote code that was messy and hard to follow. However, when I did see the code I wrote on Intellij, there was a red mark in almost every line. It did feel terrible to see and think that I had to fix all those lines of code. I will be honest and say that I thought some coding standards based on ESLint were kind of ridiculous and I did not agree that it was "messy."
 
-```js
-
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```js
-function sumWhile(list) {
-  let sum = 0; let i = 0;
-  while (i < list.length) {
-    sum += list[i];
-    i++;
-  }
-  return sum;
-}
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## Setbacks of Coding Standards
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+In the following example, we see code that does not follow the coding standards. The lack of indentations and spaces between the words or between conditional cases has made this bad code.
 
 ```js
 function sumWhile(list){
@@ -55,9 +32,20 @@ let i = 0;
       return sum;
 }
 ```
+By following the coding standard, the code turns into this:
+```js
+function sumWhile(list) {
+  let sum = 0; let i = 0;
+  while (i < list.length) {
+    sum += list[i];
+    i++;
+  }
+  return sum;
+}
+```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+My honest opinion on coding standards is that it can be tough and tedious to do at first, but once you get used to it, it will be beneficial in the longrun.
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+I think that following the coding standard is something that I need to become used to and familiar with again. I really think that it would help in the long run and is beneficial especially when you are just learning a new language. 
