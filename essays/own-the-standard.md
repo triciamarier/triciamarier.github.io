@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Own the Coding Standard
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 labels:
@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-**Coding standards** is a set of rules and practices that aid in writing code that is neat and orderly.
+**Coding standards** are a set of rules and practices that aid in writing code that is neat and orderly.
 
 ## My Opinion on Coding Standards
 
