@@ -46,4 +46,4 @@ function sumWhile(list) {
 
 ## Conclusion
 
-I think that following the coding standard is something that I need to become used to doing again. My honest opinion on coding standards is that it can be tough and tedious to do at first, but once you get familiar with the rules and the process, it will be beneficial when you are debugging, reading through code, and even asking someone for help.
+I think that following the coding standard is something that I need to become used following strictly again. It has help me in the past when I first learned how to code in C, so I believe that it can be beneficial in learning other coding languages. Although it can be tough and tedious to do in the beginning, once you become familiar with the rules and the process, it will turn into something you do regularly and will be worthwile once you need to debug, read through your code, or even ask someone for help in reviewing your code.
