@@ -10,8 +10,6 @@ labels:
   - ESLint
 ---
 
-## What are Coding Standards
-
 **Coding standards** is a set of rules and practices that aid in writing code that is neat and orderly.
 
 ## My Opinion on Coding Standards
