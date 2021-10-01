@@ -9,6 +9,8 @@ labels:
 - Software Engineering
 ---
 
+<a href="https://www.radgrad.org/"><class="ui image" src="../images/radgrad.png"></a>
+
 ## My Thoughts on RadGrad
 
 **RadGrad** is a site for computer science and computer engineering students focused on helping them navigate through their college career and find courses, opportunities, and activities that fit their interests and career goals.
