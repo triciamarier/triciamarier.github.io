@@ -9,7 +9,7 @@ labels:
 - Software Engineering
 ---
 
-<a href="https://www.radgrad.org/"><class="ui image" src="../images/radgrad.png"></a>
+<img class="ui image" src="/images/radgrad.png">
 
 ## My Thoughts on RadGrad
 
