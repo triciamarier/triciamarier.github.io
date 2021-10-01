@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Is it as Rad as it Sounds?
+title: Is it as rad as it sounds?
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-30
 labels:
