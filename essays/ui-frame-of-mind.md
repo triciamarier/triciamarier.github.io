@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: UI Frame of Mind
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
 labels:
