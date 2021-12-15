@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: 
+type: 
 image: images/cpu.jpeg
 title: 16-bit Single-Cycle LEGv8 Processor
 permalink: projects/legv8processor
