@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout:
+type:
 title: Can't C Well? Let's Learn Javscript
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
