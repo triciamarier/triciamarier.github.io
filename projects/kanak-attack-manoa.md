@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kanak-attack.png
+image: images/food.png
 title: Kanak Attack Manoa
 permalink: projects/kanak-attack-manoa
 # All dates must be YYYY-MM-DD format!
@@ -26,5 +26,5 @@ In this project, I was in charge of deployment of our application to Digital Oce
 
 This project taught me a lot about working as a group and having to come up with our own design choices and utilizing what we learned about web application development. I also learned a lot about working in a team, trusting your teammates, and communicating with them to get the work done. Through this team, I was able to learn a lot about the process of creating something from your own ideas and through what was learned during the course of the semester, as well as having to plan out a timeline for your team on how and when we would get the job done.
 
-You can learn more at the [Kanak Attack Manoa wepage](https://kanak-attack-manoa.github.io/).
+You can learn more at the [Kanak Attack Manoa page](https://kanak-attack-manoa.github.io/).
 [Github Organization](https://github.com/kanak-attack-manoa)
