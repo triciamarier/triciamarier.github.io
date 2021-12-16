@@ -9,15 +9,14 @@ date: 2021-12-16
 labels:
 - Web Development
 - GitHub
-summary: 
+summary: Kanak Attack Manoa is an application that gives users the chance to view vendors available on campus and make a choice that best fits their budget and taste.
 ---
 
 ## Project Overview
 
 Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ability to maintain an active menu, update items, and list the availability of items. The user have the ability to view menu items, vendors, and the menu for each vendor. On top of that, they are also able to read reviews from other users and leave their own. The overall purpose of this app is to display available items around campus so the user can make a decision on what to eat based on their personal taste and availability.
 
-<img class="ui image" src="{{ site.baseurl }}/images/firmware.png">
-
+<img class="ui image" src="{{ site.baseurl }}/images/kanak-attack.png">
 
 ## My Work
 
@@ -25,7 +24,7 @@ In this project, I was in charge of deployment of our application to Digital Oce
 
 ## What I Learned 
 
-This project taught me a lot about working as a group and having to come up with our own improvements and solutions in order to make the existing project and algorithm better. It also involved a lot of self-driven work and research, and at some points I did feel lost and stuck and felt like I needed to be given direction. I would say it felt a bit like a job as the professor doesn't set up everything for you or give you instructions on how to do it. Through this team, I was able to learn a lot about the process of creating something from the research to the design, as well as having to plan out a timeline for your team on how and when we would get the job done.
+This project taught me a lot about working as a group and having to come up with our own design choices and utilizing what we learned about web application development. I also learned a lot about working in a team, trusting your teammates, and communicating with them to get the work done. Through this team, I was able to learn a lot about the process of creating something from your own ideas and through what was learned during the course of the semester, as well as having to plan out a timeline for your team on how and when we would get the job done.
 
 You can learn more at the [Kanak Attack Manoa wepage](https://kanak-attack-manoa.github.io/).
 [Github Organization](https://github.com/kanak-attack-manoa)
