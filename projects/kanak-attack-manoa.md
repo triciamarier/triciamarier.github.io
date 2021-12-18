@@ -17,7 +17,7 @@ summary: Kanak Attack Manoa is an application that gives users the chance to vie
 
 ## Project Overview
 
-Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ability to maintain an active menu, update items, and list the availability of items. The user have the ability to view menu items, vendors, and the menu for each vendor. On top of that, they are also able to read reviews from other users and leave their own. The overall purpose of this app is to display available items around campus so the user can make a decision on what to eat based on their personal taste and availability.
+Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ability to maintain an active menu, update items, and list the availability of items. The users have the ability to view menu items, vendors, and the menu for each vendor. They are also able to read reviews from other users and leave their own on the vendor's page. The overall purpose of this app is to display menu items that are available around campus to help the user decide what to eat based on their personal taste and availability.
 
 <img class="ui image" src="{{ site.baseurl }}/images/kanak-attack.png">
 
