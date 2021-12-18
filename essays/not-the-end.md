@@ -14,7 +14,8 @@ At the start of my final year in college, I began thinking more seriously of wha
 
 ## Design Patterns
 
-Design patterns are a solution to a problem that occurs commonly and can be used in multiple situations. At first I thought design patterns are pretty complex, and also thought they weren't that important. However, I learned that I've been using them this whole time without even knowing that I was using it. I think design patterns can be applied beyond web application in almost anything to help solve problems that can occur in life. Although we may face hardships, challenges, and struggles in work, life, and personal experiences, I think that design patterns are created because of them. There will never be a stop to the creation of new design patterns and so anyone has the ability to discover a new design pattern after putting in enough work and effort, and that will to help make life more easier for everyone.
+Design patterns are a solution to a problem that occurs commonly and can be used in multiple situations. At first I thought design patterns are pretty complex, and also thought they weren't that important. However, I learned that I've been using them this whole time without even knowing that I was using it. I think design patterns can be applied beyond web application in almost anything to help solve problems that can occur in life. Although we may face hardships, challenges, and struggles in work and life, I think that design patterns are created in these moments by those who are able to work through adversity and use their personal experiences to thus come forward with a design pattern that will help others solve or work through those problems. There will never be a stop to the creation of new design patterns and so anyone has the ability to discover a new design pattern after putting in enough work and effort, and that will to help make life more easier for everyone.
+
 
 ## Agile Project Management
 
