@@ -52,8 +52,11 @@
         "C",
         "C++",
         "Python",
-        "Assembly Language",
-        "Javascript"
+        "Javascript",
+        "Meteor",
+        "Semantic UI React",
+        "MongoDB",
+        "Assembly Language"
       ]
     },
     {
@@ -62,7 +65,8 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Linux/Unix"
+        "Linux/Unix",
+        "Git/Github"
       ]
     }
   ],
