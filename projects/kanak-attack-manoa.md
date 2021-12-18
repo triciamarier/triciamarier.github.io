@@ -9,6 +9,9 @@ date: 2021-12-16
 labels:
 - Web Development
 - GitHub
+- Digital Ocean
+- Semantic UI React
+- Meteor
 summary: Kanak Attack Manoa is an application that gives users the chance to view vendors available on campus and make a choice that best fits their budget and taste.
 ---
 
@@ -22,8 +25,12 @@ Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ab
 
 In this project, I was in charge of deployment of our application to Digital Ocean. I also kept our site up to date by redeploying each time. In addition to this, I established a domain name for our application. I also worked on both the admin and vendor home page for our site. This gave the administrator the ability to add a vendor role to a user and manage the system. To do this, I created the vendor role for our application and had to use Meteor methods so that a user can be assigned a role even after initialization of the database. For the vendor home page, vendors were able to add their current profile as well as edit it and change any information about their shop. I also included a page that would list the menu of all the vendors. In managing the different pages that the different roles can access, I worked with the publications and subscriptions to make sure that users could not access certain things and made sure that there were protected routes for all the roles. Since different pages weren't accessed by other roles, I also created different pages and components for multiple roles so that users didn't have edit access to anything and that vendors only had access to their own menu and profile.
 
-Here are a couple pages mentioned that I implemented:
+Here are a couple pages mentioned that I implemented.
+* Admin Homepage:
+
 <img class="ui image" src="{{ site.baseurl }}/images/admin-home.png">
+* Vendor Homepage:
+
 <img class="ui image" src="{{ site.baseurl }}/images/vendor-home.png">
 
 ## What I Learned 
