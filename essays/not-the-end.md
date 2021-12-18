@@ -10,7 +10,7 @@ labels:
   - Agile Project Management
 ---
 
-At the start of my final year in college, I began thinking more seriously of what I would do once I graduated. With some hesitation, I would say I was not entirely sure as there are so many choices and decisions that I felt I needed to make. Not having a plan is scary. I then took ICS314, a software engineering class. I never expected to learn things in this course that could be applied in places beyond web application development.
+At the start of my final year in college, I began thinking more seriously of what I would do once I graduated. With some hesitation, I would say I was not entirely sure as there are so many choices and decisions that I felt I needed to make. Not having a plan is scary. I then took ICS314, a software engineering class, and I never expected to learn things in this course that could be applied in places beyond web application development.
 
 ## Design Patterns
 
