@@ -30,6 +30,4 @@ Here are a couple pages mentioned that I implemented:
 
 This project taught me a lot about working as a group and having to come up with our own design choices and utilizing what we learned about web application development. I also learned a lot about working in a team, trusting your teammates, and communicating with them to get the work done. Through this team, I was able to learn a lot about the process of creating something from your own ideas and through what was learned during the course of the semester, as well as having to plan out a timeline for your team on how and when we would get the job done.
 
-You can learn more at the [Kanak Attack Manoa page](https://kanak-attack-manoa.github.io/).
-
-[Github Organization](https://github.com/kanak-attack-manoa)
+You can learn more at the [Kanak Attack Manoa page](https://kanak-attack-manoa.github.io/) and our [Github Organization](https://github.com/kanak-attack-manoa)
